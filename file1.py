@@ -2,8 +2,8 @@ print("blablablablbal")
 
 
 def f():
-    y = 4
-    x = 8
+    y = 44
+    x = 81
     print(x + y)
 
 
